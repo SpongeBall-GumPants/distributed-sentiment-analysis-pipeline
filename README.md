@@ -1,4 +1,3 @@
-````markdown
 # Distributed Sentiment-Analysis Pipeline
 
 A distributed big data pipeline for batch and real-time sentiment analysis of Twitter airline data.
@@ -561,4 +560,3 @@ alerts_negative
 ## License
 
 This project is for educational and portfolio purposes.
-````
