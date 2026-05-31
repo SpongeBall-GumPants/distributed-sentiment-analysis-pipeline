@@ -1,3 +1,4 @@
+# Emre Efe Serin
 # Distributed Sentiment-Analysis Pipeline
 
 A distributed big data pipeline for batch and real-time sentiment analysis of Twitter airline data.
